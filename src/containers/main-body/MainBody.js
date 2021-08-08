@@ -114,7 +114,7 @@ const MainBody = () => {
           <Row className="main-content justify-content-md-evenly align-items-center mx-1">
             <Col className="content-container my-4" md="5">
               <ScrollAnimation
-                delay={2000}
+                delay={1500}
                 animateIn="fadeIn"
                 animateOnce={true}
                 animateOut="fadeOut"
@@ -124,7 +124,7 @@ const MainBody = () => {
                 </div>
               </ScrollAnimation>
               <ScrollAnimation
-                delay={3000}
+                delay={2500}
                 animateIn="fadeIn"
                 animateOnce={true}
                 animateOut="fadeOut"
